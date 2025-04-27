@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-.card_wrapper{
+.cards-wrapper{
 display:grid;
 	
 }
 
-#card{
+.card{
 border:10px solid #ccc;
 background-color:#fafafa;
 	
