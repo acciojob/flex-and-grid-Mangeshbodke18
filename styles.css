@@ -6,13 +6,13 @@ display:grid;
 
 .card{
 border:10px solid #ccc;
-background-color:#fafafa;
+background-color:rgb(250,250,250);
 	
 	}
 h1{
-font-size:1.5em;
+font-size:36px;
 }
 
-.card p{
-font-size:0.75em;
+p{
+font-size:18px;
 }
