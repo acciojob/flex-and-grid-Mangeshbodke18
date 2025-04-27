@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.card_wrapper{
+display:grid;
+	
+}
+
+#card{
+border:10px solid #ccc;
+background-color:#fafafa;
+	
+	}
+h1{
+font-size:1.5em;
+}
+
+p{
+font-size:0.75em;
+}
